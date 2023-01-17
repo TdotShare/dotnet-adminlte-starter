@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using portfolio_notebooks_me.Models;
+﻿using dotnet_adminlte_starter.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace portfolio_notebooks_me.Controllers
+namespace dotnet_adminlte_starter.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\dotnet\\portfolio-notebooks-me\\portfolio-notebooks-me\\portfolio-notebooks-me.csproj": {}
+    "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\dotnet\\portfolio-notebooks-me\\portfolio-notebooks-me\\portfolio-notebooks-me.csproj": {
+    "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\dotnet\\portfolio-notebooks-me\\portfolio-notebooks-me\\portfolio-notebooks-me.csproj",
-        "projectName": "portfolio-notebooks-me",
-        "projectPath": "D:\\Coding\\dotnet\\portfolio-notebooks-me\\portfolio-notebooks-me\\portfolio-notebooks-me.csproj",
+        "projectUniqueName": "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj",
+        "projectName": "dotnet-adminlte-starter",
+        "projectPath": "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj",
         "packagesPath": "C:\\Users\\tdot\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\dotnet\\portfolio-notebooks-me\\portfolio-notebooks-me\\obj\\",
+        "outputPath": "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tdot\\AppData\\Roaming\\NuGet\\NuGet.Config",

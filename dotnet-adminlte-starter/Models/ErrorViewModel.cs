@@ -1,4 +1,4 @@
-namespace portfolio_notebooks_me.Models
+namespace dotnet_adminlte_starter.Models
 {
     public class ErrorViewModel
     {

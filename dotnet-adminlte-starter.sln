@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portfolio-notebooks-me", "portfolio-notebooks-me\portfolio-notebooks-me.csproj", "{68848D90-0C30-4912-BE96-B5B4911ED5DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-adminlte-starter", "dotnet-adminlte-starter\dotnet-adminlte-starter.csproj", "{C9954EBB-0B36-4749-9D08-934DC4C8F0A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{68848D90-0C30-4912-BE96-B5B4911ED5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68848D90-0C30-4912-BE96-B5B4911ED5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68848D90-0C30-4912-BE96-B5B4911ED5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68848D90-0C30-4912-BE96-B5B4911ED5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9954EBB-0B36-4749-9D08-934DC4C8F0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9954EBB-0B36-4749-9D08-934DC4C8F0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9954EBB-0B36-4749-9D08-934DC4C8F0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9954EBB-0B36-4749-9D08-934DC4C8F0A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9463A025-8922-49F4-9EA6-CFA41BE029D8}
+		SolutionGuid = {B3178EFE-64EB-4118-AA62-C1CF57EA946D}
 	EndGlobalSection
 EndGlobal
