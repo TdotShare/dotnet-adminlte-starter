@@ -1,0 +1,35 @@
+﻿@using dotnet_adminlte_starter.Mapper.Templates;
+
+@model IEnumerable<Sidebar>
+
+@{
+    var menu_list = ViewData["sidebar_data"] as Sidebar[];
+}
+
+<div class="sidebar">
+    <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+        <div class="image">
+            <img src="~/template/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+        </div>
+        <div class="info">
+            <a href="#" class="d-block">ผู้เยี่ยมชมระบบ</a>
+        </div>
+    </div>
+
+    <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+
+            @foreach (var item in menu_list!)
+            {
+                <li class="nav-item">
+                    <a href="@Url.RouteUrl($"{item.Url}")" class="nav-link @item.Path">
+                        <i class="nav-icon @item.Icon"></i>
+                        <p>
+                            @item.Name
+                        </p>
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>

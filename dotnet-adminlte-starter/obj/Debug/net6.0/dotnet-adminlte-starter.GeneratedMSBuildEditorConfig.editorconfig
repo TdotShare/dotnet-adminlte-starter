@@ -16,20 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Coding\dotnet\dotnet-adminlte-starter\dotnet-adminlte-starter
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Shared/Components/MenuList/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUxpc3RcX1NpZGViYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Shared/_Breadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CcmVhZGNydW1iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Shared/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/_ViewImports.cshtml]
@@ -39,7 +43,3 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Coding/dotnet/dotnet-adminlte-starter/dotnet-adminlte-starter/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-8lqjalo0hc
