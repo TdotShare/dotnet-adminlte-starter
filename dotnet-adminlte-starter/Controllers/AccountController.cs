@@ -15,5 +15,11 @@ namespace dotnet_adminlte_starter.Controllers
             ViewData["titleheader_data"] = new TitleHeader { Name = "ผู้ใช้งาน", Breadcrumbs = breadcrumb_list };
             return View();
         }
+
+        public ActionResult Create()
+        {
+            ViewData["titleheader_data"] = new TitleHeader { Name = "ผู้ใช้งาน", Breadcrumbs = breadcrumb_list };
+            return View();
+        }
     }
 }
