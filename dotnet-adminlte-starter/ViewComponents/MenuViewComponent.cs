@@ -10,7 +10,7 @@ namespace dotnet_adminlte_starter.ViewComponents
         public IViewComponentResult Invoke()
         {
 
-            string[] paths = $"{Request.Path}".Split('/');
+            string[] paths = $"{Request.Path}".ToLower().Split('/');
 
             var sidebar_data = new Sidebar[]
             {
