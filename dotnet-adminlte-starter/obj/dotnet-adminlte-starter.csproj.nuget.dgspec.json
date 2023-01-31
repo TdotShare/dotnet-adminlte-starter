@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codeing\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj": {}
+    "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj": {}
   },
   "projects": {
-    "D:\\codeing\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj": {
+    "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codeing\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj",
+        "projectUniqueName": "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj",
         "projectName": "dotnet-adminlte-starter",
-        "projectPath": "D:\\codeing\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj",
+        "projectPath": "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\dotnet-adminlte-starter.csproj",
         "packagesPath": "C:\\Users\\tdot\\.nuget\\packages\\",
-        "outputPath": "D:\\codeing\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\obj\\",
+        "outputPath": "D:\\Coding\\dotnet\\dotnet-adminlte-starter\\dotnet-adminlte-starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tdot\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
